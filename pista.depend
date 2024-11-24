@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1731434381 source:c:\users\computador\downloads\c\pista\main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<time.h>
+
+1732047847 source:c:\users\computador\downloads\pista (1)\pista\main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1732484159 source:c:\users\computador\downloads\pista2 (2)\pista2\pista\main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+

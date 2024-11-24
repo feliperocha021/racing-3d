@@ -1,0 +1,3 @@
+C:/Users/bnascimento/Downloads/pista2/pista/cmake-build-debug/CMakeFiles/Joguim.dir
+C:/Users/bnascimento/Downloads/pista2/pista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bnascimento/Downloads/pista2/pista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
